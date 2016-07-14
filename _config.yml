@@ -3,7 +3,7 @@ menu:
   主页: /
   所有文章: /archives
   随笔: /tags/随笔/
-
+  关于我: /about
 # SubNav
 subnav:
   github: "https://github.com/jumpbyte"
@@ -59,6 +59,6 @@ friends:
 
 #是否开启“关于我”。
 #不开启——
-#aboutme: false
+aboutme: false
 #开启——
-aboutme: 90后潜力架构师一枚，喜欢开源，喜欢钻研，linux爱好者，希望能和各种技术爱好者共同交流学习，进步！
+#aboutme: 90后潜力架构师一枚，喜欢开源，喜欢钻研，linux爱好者，希望能和各种技术爱好者共同交流学习，进步！
